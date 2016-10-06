@@ -7,16 +7,16 @@
 ## Uses distinct namespace. Jekyll settings should go at the root level.
 githubiverse:
     ## Metadata
-    title: "Mechanical Movement #27"
-    author: Gary Hodgson
-    license: GPL3
-    tags: [mechanical movement, fun]
+    title: "Retorta"
+    author: Haute École Arc
+    license: CC by sa
+    tags: [open hardware, gold mining]
 
     ## Github project parameters.
     github:
         base: https://github.com/
-        user: garyhodgson
-        repository: githubiverse-tst
+        user: anthropotek
+        repository: retorta
         branch: master
 
     ## The names of directories where any images, source and stl files associated with the project can be found.
@@ -25,7 +25,7 @@ githubiverse:
     src_dir: src
 
     ## The headline image
-    lead_image: test-jig.jpg
+    lead_image: DSC_0791pp.jpg
     show_lead_image: true
 
     ## Optional. When uncommented appends the content of the file defined here to the project description.  Any text in index.md, after the yaml header, will be shown first.
