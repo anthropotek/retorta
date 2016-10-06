@@ -79,7 +79,6 @@ This hardware is part of Wanamei project, focusing on developing socio-technical
 ## License
 
 This project is licensed under the Creative Commons Licence – Attribution Non commercial – ShareAlike 3.0 Unported. This means that the retorta cannot be marketed directly and in a collaborative spirit, we ask you to share with us the modifications you might have made. See the https://creativecommons.org/licenses/by-sa/3.0/ website for details.
-[LICENSE.md](LICENSE.md)
 
 ## Acknowledgments
 
