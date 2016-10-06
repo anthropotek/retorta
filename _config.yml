@@ -7,7 +7,7 @@
 ## Uses distinct namespace. Jekyll settings should go at the root level.
 githubiverse:
     ## Metadata
-	title: "Retorta"
+    title: "Retorta"
     author: Haute École Arc
     license: CC by sa
     tags: [open hardware, gold mining]
@@ -25,11 +25,11 @@ githubiverse:
     src_dir: src
 
     ## The headline image
-    lead_image: DSC_0791pp.jpg
+    lead_image: test-jig.jpg
     show_lead_image: true
 
     ## Optional. When uncommented appends the content of the file defined here to the project description.  Any text in index.md, after the yaml header, will be shown first.
-    description_file: README.md
+    ## description_file: README.md
 
     ## Preview the first STL in the list when the page loads.
     autoload_stl: true
