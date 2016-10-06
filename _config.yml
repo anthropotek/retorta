@@ -7,7 +7,6 @@
 ## Uses distinct namespace. Jekyll settings should go at the root level.
 githubiverse:
     ## Metadata
-    uuid: "f8736600-ff82-4a92-a5e9-fdeeeeb259fe"
 	title: "Retorta"
     author: Haute École Arc
     license: CC by sa
