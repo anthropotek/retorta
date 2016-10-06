@@ -2,7 +2,7 @@
 
 mercury amalgam retort for gold mining
 
-![Alt text](/img/DSC_0791pp.jpg?raw=true "Retorta")
+![Alt text](/img/IMG_2189.jpg?raw=true "Retorta")
 
 ## Getting Started
 
@@ -73,14 +73,13 @@ Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c6
 We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
 
 ## Authors
-
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+Haute Ecole Arc Engineering - Team "User-Centered Product Design", website: http://anthropotechnologie.org/
+This hardware is part of Wanamei project, focusing on developing socio-technical solutions to improve current mining problematics, website of the project: http://wanamei.org/
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the Creative Commons Licence – Attribution Non commercial – ShareAlike 3.0 Unported. This means that the retorta cannot be marketed directly and in a collaborative spirit, we ask you to share with us the modifications you might have made. See the https://creativecommons.org/licenses/by-sa/3.0/ website for details.
+[LICENSE.md](LICENSE.md)
 
 ## Acknowledgments
 
