@@ -1,4 +1,4 @@
-# retorta
+# Retorta
 
 mercury amalgam retort for gold mining
 
